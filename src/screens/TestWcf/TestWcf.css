@@ -1,0 +1,21 @@
+.txtJsonRequest{
+    width: 100%;
+    height: 400px;
+    overflow-y: auto;
+    background-color: black;
+    color: white;
+    font-family: cons;
+    font-size: 25px;
+    font-family: consolas;
+    line-height: normal;
+}
+
+.btnEnviar{
+    width: 130px;
+    font-size: 20px !important;
+}
+
+@font-face {
+    font-family: 'consolas';
+    src: url('../../fonts/vt323-latin-400-normal.ttf') format('woff2');
+  }
